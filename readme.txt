@@ -3,4 +3,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git has a mutable index called stage.Git has a mutable index called stage.Git has a mutable index called stage.Git has a mutable index called stage.
 王学刚
-Creating a new branch is quick and simple.
+Creating a new branch is quick.
+修改了bug
